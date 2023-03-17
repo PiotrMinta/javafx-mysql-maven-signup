@@ -54,7 +54,9 @@ https://openjfx.io/openjfx-docs/#introduction
 
 ![JDBC Connection](https://user-images.githubusercontent.com/115106367/226013513-8ecd667f-3f32-4d24-8f5a-63ca2957f940.jpg)
 
-- If everyting is setup corectly you should be able to run the program by typing: "mvn clean javafx:run" in terminal:
+### How to run program?
+
+If everyting is setup corectly you should be able to run the program by typing: "mvn clean javafx:run" in terminal:
 
 ![App Configuration 4](https://user-images.githubusercontent.com/115106367/226018094-edfb04c9-5da5-49b4-b53f-a02417e40d5b.jpg)
 
