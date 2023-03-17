@@ -65,7 +65,9 @@ If everyting is setup corectly you should be able to run the program by typing: 
 ### Usage
 
 - Case 1:
+
 ![Case 1](https://user-images.githubusercontent.com/115106367/226021877-c6b3d87a-3630-43aa-9412-ccc2031f0c54.jpg)
 
 - Case 2:
+
 ![Case 2](https://user-images.githubusercontent.com/115106367/226022025-858fc082-da7f-4e3c-8fab-582e834ce033.jpg)
